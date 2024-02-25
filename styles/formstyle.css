@@ -1,0 +1,10 @@
+label{
+    display: block;
+    margin: 10px;
+}
+fieldset{
+    margin-right: 50%;
+}
+#reset{
+    margin-right: 100px;
+}
